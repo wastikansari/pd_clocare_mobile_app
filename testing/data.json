@@ -1,0 +1,1516 @@
+// {
+//     "bagInfo":[
+//        {
+//           "bagno":"1"
+//        }
+//     ],
+//     "staff_token":"4pyi9VQrHxJpvvBfsptUHDFhOTFhZDNlNWViZDU2MjU0YzA5M2JhNDg5N2NkNTBjMDg4MTdhM2JmNTU5NGYxNmUzYWUwYTg3ZmI4OTBlYmKu0Rq3NjwOy5aAPnesbvL/E+pBBN7usOQjmzQJgKrQa7082G9rJrwNl22LTCrCUy6+QHT4t1ChkUDtVDq9P4II",
+//     "total_picked_items":"3",
+//     "total_items":"3",
+//     "stage_comments":"",
+//     "order_id":72902,
+//     "orderstage_id":202750,
+//     "mode_of_payment":"",
+//     "FinalAddedMoney":0.0,
+//     "referral":{
+//        "total_balance":0.0,
+//        "total_balance_text":"&#8377;0  <small class=\"txtview_14\"> (Total 0 points earned)</small>",
+//        "used":0
+//     },
+//     "Orders":{
+//        "additional_charges":"25.00",
+//        "additional_discount":"0.00",
+//        "additional_discount_amount":"0.00",
+//        "cancelled":0,
+//        "cancelled_by":"",
+//        "cancelled_by_id":0,
+//        "comments":"\n                                                ",
+//        "created_on":"2023-08-04 17:34:14",
+//        "customer_id":13908,
+//        "delivery_assigned_to":0,
+//        "delivery_attempts":0,
+//        "deliveryCities":{
+//           "city_name":"Vadodara"
+//        },
+//        "delivery_city_id":7,
+//        "delivery_date":"2023-08-04",
+//        "delivery_flat_no":"B 73 INDRA",
+//        "delivery_landmark":"ambe maa Mandir ",
+//        "delivery_pincode_id":39,
+//        "deliveryPincodes":{
+//           "area_name":"Harni",
+//           "pincode":"390022"
+//        },
+//        "delivery_slot_id":64,
+//        "delivery_state_id":9,
+//        "deliveryStates":{
+//           "state_name":"Gujarat"
+//        },
+//        "delivery_street":"Harni warasiya",
+//        "deliveryTimeSlot":{
+//           "ends_on":1691170200,
+//           "starts_on":1691155800
+//        },
+//        "deliveryaddress_id":12386,
+//        "extra_paid_amount":0,
+//        "extra_paid_by":0,
+//        "extra_paid_on":"0000-00-00 00:00:00",
+//        "extra_pay":0.0,
+//        "formatted_delivery_address":"B 73 INDRA, Harni warasiya,ambe maa Mandir ,Harni,Vadodara-390022,Gujarat",
+//        "formatted_pickup_address":"B 73 INDRA, Harni warasiya,ambe maa Mandir ,Harni,Vadodara-390022,Gujarat",
+//        "has_pref_delivery_time":0,
+//        "has_pref_pickup_time":0,
+//        "initial_assigned_to":263,
+//        "is_auto_routed":0,
+//        "is_bill_generated":0,
+//        "is_collected_in_person":0,
+//        "isDelivered":false,
+//        "is_donation":0,
+//        "is_feedback_rcvd":0,
+//        "is_generated_by_scheduler":0,
+//        "is_invoice_generated":0,
+//        "is_lf":0,
+//        "is_marked_as_auto_feedback":0,
+//        "is_paid_to_vendor":0,
+//        "is_payable_calculated":0,
+//        "isPickedUp":false,
+//        "isProcessed":false,
+//        "is_proforma_invoice_generated":0,
+//        "is_quickly_pickedup":0,
+//        "is_refunded":0,
+//        "is_repeated":0,
+//        "is_delivered":0,
+//        "is_pickedup":0,
+//        "is_processed":0,
+//        "is_subscribed":0,
+//        "last_modified_on":"2023-08-04 20:27:48",
+//        "monthly_subscription":0,
+//        "needs_verification":2,
+//        "order_amount":"0.00",
+//        "orderBookedBy":{
+//           "id":13976,
+//           "name":"test2 test2",
+//           "push_id":"eUygd-_bRkuvfr0WrRNpHi:APA91bEFgc1Z2P7YBosow_zDvmCihhMTDyc7CdVyKOD7kZ6rG5RU9-YQlogoolxwGdVPn-iWQzAWwPh58auZJEwTBs3k1xoZBy71o_-oXaNRfVJRoeeqoW63-DEJZoBeUg2Dwb9UMyMf"
+//        },
+//        "order_display_id":"ORD973972902",
+//        "order_id":72902,
+//        "orderItems":[
+          
+//        ],
+//        "order_outstanding_amount":"0.00",
+//        "order_stages":[
+//           {
+//              "assigned_to":"wastik ansari (8327724967)",
+//              "assigned_to_id":"263",
+//              "customer_feedback_comment":"",
+//              "customer_feedback_rating":"0",
+//              "orderstage_id":202750,
+//              "stage_by_sep_name":"",
+//              "stage_by_sep_phone":"",
+//              "stage_comments":"",
+//              "stage_order":1,
+//              "stage_status":"Pending",
+//              "stage_title":"Pickup",
+//              "staged_by":"",
+//              "staged_laston":"",
+//              "staged_on":""
+//           },
+//           {
+//              "assigned_to":"",
+//              "assigned_to_id":"",
+//              "customer_feedback_comment":"",
+//              "customer_feedback_rating":"",
+//              "customer_feedback_received_on":"",
+//              "orderstage_id":0,
+//              "stage_by_sep_name":"",
+//              "stage_by_sep_phone":"",
+//              "stage_comment":"",
+//              "stage_order":2,
+//              "stage_status":"",
+//              "stage_title":"Processing",
+//              "staged_by":"",
+//              "staged_laston":"",
+//              "staged_on":""
+//           },
+//           {
+//              "assigned_to":"",
+//              "assigned_to_id":"",
+//              "customer_feedback_comment":"",
+//              "customer_feedback_rating":"",
+//              "customer_feedback_received_on":"",
+//              "orderstage_id":0,
+//              "stage_by_sep_name":"",
+//              "stage_by_sep_phone":"",
+//              "stage_comment":"",
+//              "stage_order":3,
+//              "stage_status":"",
+//              "stage_title":"Delivery",
+//              "staged_by":"",
+//              "staged_laston":"",
+//              "staged_on":""
+//           }
+//        ],
+//        "order_sub_total":"0.00",
+//        "order_taxes":"0.00",
+//        "order_total":"25",
+//        "orderType":{
+//           "allow_user_to_choose_garments":0,
+//           "is_instant":1,
+//           "min_ord_val":"30.00",
+//           "type_name":"Express Service"
+//        },
+//        "orderWiseStages":[
+//           {
+//              "created_on":"2023-08-04 17:34:14",
+//              "display_order":1,
+//              "last_modified_on":"2023-08-04 20:27:48",
+//              "order_id":72902,
+//              "orderstage_id":202750,
+//              "stage_comments":"",
+//              "stage_id":29,
+//              "age_status":10,
+//              "title":"Pickup"
+//           }
+//        ],
+//        "order_booked_by":13976,
+//        "ordertype_id":12,
+//        "origin_source":"APP",
+//        "parent_order_id":0,
+//        "payLater":1,
+//        "pickup_attempts":0,
+//        "pickupCities":{
+//           "city_name":"Vadodara"
+//        },
+//        "pickup_city_id":7,
+//        "pickup_date":"2023-08-04",
+//        "pickup_flat_no":"B 73 INDRA",
+//        "pickup_landmark":"ambe maa Mandir ",
+//        "PickupPersonInfo":{
+//           "away":"",
+//           "lat":"",
+//           "lon":"",
+//           "number":"",
+//           "person":"",
+//           "person_id":"0"
+//        },
+//        "pickup_pincode_id":39,
+//        "pickupPincodes":{
+//           "area_name":"Harni",
+//           "pincode":"390022"
+//        },
+//        "pickup_slot_id":63,
+//        "pickup_state_id":9,
+//        "pickupStates":{
+//           "state_name":"Gujarat"
+//        },
+//        "pickup_street":"Harni warasiya",
+//        "pickupaddress_id":12386,
+//        "pref_pickup_time_charge":"0.00",
+//        "rate_multiplier":"2.50",
+//        "ref_discount":"0.00",
+//        "refunded_amount":"0.00",
+//        "same_as":"1",
+//        "service":{
+//           "banner":"1615037586_service_banner.jpg",
+//           "name":"Wash"
+//        },
+//        "service_id":12,
+//        "special_comment":"",
+//        "special_discount":0,
+//        "special_discount_amount":"0.00",
+//        "stage_comments":"",
+//        "status":"Unpaid",
+//        "taxes":[
+          
+//        ],
+//        "timeSlot":{
+//           "ends_on":1691155800,
+//           "starts_on":1691145000
+//        },
+//        "total_dlvrd_items":0,
+//        "total_items":3,
+//        "total_rcvd_items":3
+//     },
+//     "OrderItems":[
+//        {
+//           "gtype_id":107,
+//           "price_id":0,
+//           "rcvd_qty":1,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":108,
+//           "price_id":0,
+//           "rcvd_qty":1,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":109,
+//           "price_id":0,
+//           "rcvd_qty":1,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":110,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"50.00"
+//        },
+//        {
+//           "gtype_id":111,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"65.00"
+//        },
+//        {
+//           "gtype_id":112,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"40.00"
+//        },
+//        {
+//           "gtype_id":113,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":114,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":219,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":220,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":221,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"25.00"
+//        },
+//        {
+//           "gtype_id":284,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":326,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":330,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"18.00"
+//        },
+//        {
+//           "gtype_id":361,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":115,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":116,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":117,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"18.00"
+//        },
+//        {
+//           "gtype_id":118,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":119,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":120,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":121,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":222,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":223,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":224,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"40.00"
+//        },
+//        {
+//           "gtype_id":225,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":337,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":338,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":339,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":343,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"12.00"
+//        },
+//        {
+//           "gtype_id":344,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":345,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":346,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":351,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":368,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":122,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":123,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":170,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":178,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":187,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":188,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"200.00"
+//        },
+//        {
+//           "gtype_id":216,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"50.00"
+//        },
+//        {
+//           "gtype_id":217,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"8.00"
+//        },
+//        {
+//           "gtype_id":218,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"6.00"
+//        },
+//        {
+//           "gtype_id":228,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"300.00"
+//        },
+//        {
+//           "gtype_id":292,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"5.00"
+//        },
+//        {
+//           "gtype_id":297,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":328,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"12.00"
+//        },
+//        {
+//           "gtype_id":355,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":356,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"15.00"
+//        },
+//        {
+//           "gtype_id":358,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"5.00"
+//        },
+//        {
+//           "gtype_id":363,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":364,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"45.00"
+//        },
+//        {
+//           "gtype_id":396,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":397,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"50.00"
+//        },
+//        {
+//           "gtype_id":398,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"80.00"
+//        },
+//        {
+//           "gtype_id":404,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"30.00"
+//        },
+//        {
+//           "gtype_id":300,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":301,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":302,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"20.00"
+//        },
+//        {
+//           "gtype_id":309,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":310,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":311,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":312,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":313,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":314,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":315,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        },
+//        {
+//           "gtype_id":316,
+//           "price_id":0,
+//           "rcvd_qty":null,
+//           "base_price":"10.00"
+//        }
+//     ]
+//  }
+
+
+
+//  {
+//    "order_id": 72903,
+//    "order_display_id": "ORD973972903",
+//    "customer_id": 13908,
+//    "service_id": 13,
+//    "pickup_date": "2023-08-04",
+//    "pickup_slot_id": 71,
+//    "pref_pickup_time": null,
+//    "delivery_date": "2023-08-06",
+//    "delivery_slot_id": 70,
+//    "pref_delivery_time": null,
+//    "ordertype_id": 14,
+//    "order_total": "0.00",
+//    "order_sub_total": "0.00",
+//    "order_amount": "0.00",
+//    "order_taxes": "0.00",
+//    "order_outstanding_amount": "0.00",
+//    "total_items": 15,
+//    "total_rcvd_items": 0,
+//    "total_dlvrd_items": 0,
+//    "comments": "\n                                                ",
+//    "pickupaddress_id": 12386,
+//    "deliveryaddress_id": 12386,
+//    "same_as": "1",
+//    "pickup_flat_no": "B 73 INDRA",
+//    "pickup_street": "Harni warasiya",
+//    "pickup_landmark": "ambe maa Mandir ",
+//    "pickup_state_id": 9,
+//    "pickup_city_id": 7,
+//    "pickup_pincode_id": 39,
+//    "pickup_lat": null,
+//    "pickup_lng": null,
+//    "delivery_flat_no": "B 73 INDRA",
+//    "delivery_street": "Harni warasiya",
+//    "delivery_landmark": "ambe maa Mandir ",
+//    "delivery_state_id": 9,
+//    "delivery_city_id": 7,
+//    "delivery_pincode_id": 39,
+//    "delivery_lat": null,
+//    "delivery_lng": null,
+//    "order_booked_by": 13976,
+//    "at_place": null,
+//    "status": "Unpaid",
+//    "cancelled": 0,
+//    "cancellation_reason": null,
+//    "cancelled_on": null,
+//    "cancelled_by": "",
+//    "cancelled_by_id": 0,
+//    "initial_assigned_to": 263,
+//    "delivery_assigned_to": 0,
+//    "extra_pay": 0,
+//    "extra_paid_amount": 0,
+//    "extra_paid_on": "0000-00-00 00:00:00",
+//    "extra_paid_by": 0,
+//    "is_feedback_rcvd": 0,
+//    "is_marked_as_auto_feedback": 0,
+//    "feedback_rcvd_on": null,
+//    "is_pickedup": 0,
+//    "is_processed": 0,
+//    "is_delivered": 0,
+//    "is_collected_in_person": 0,
+//    "is_auto_routed": 0,
+//    "is_refunded": 0,
+//    "refunded_amount": "0.00",
+//    "refunded_on": null,
+//    "refunded_by": null,
+//    "refund_comment": null,
+//    "submit_to": null,
+//    "submitted_by": null,
+//    "is_submitted": null,
+//    "submitted_on": null,
+//    "is_repeated": 0,
+//    "rate_multiplier": "2.00",
+//    "is_paid_to_vendor": 0,
+//    "is_payable_calculated": 0,
+//    "delivery_attempts": 0,
+//    "pickup_attempts": 0,
+//    "is_invoice_generated": 0,
+//    "invoice_num": null,
+//    "invoice_file": null,
+//    "invoiced_on": null,
+//    "additional_charges": "25.00",
+//    "is_proforma_invoice_generated": 0,
+//    "proforma_invoice_num": null,
+//    "proforma_invoice_file": null,
+//    "proforma_invoiced_on": null,
+//    "origin_source": "APP",
+//    "order_booked_by_staff": null,
+//    "payment_method": null,
+//    "ref_discount": "0.00",
+//    "ref_discount_msg": null,
+//    "is_bill_generated": 0,
+//    "feedback_followup_request_status": null,
+//    "schedule_date": null,
+//    "mode_of_payment": null,
+//    "closed_on": null,
+//    "corporate_id": null,
+//    "corporate_location_id": null,
+//    "corporate_unit_id": null,
+//    "is_generated_by_scheduler": 0,
+//    "monthly_subscription": 0,
+//    "parent_order_id": 0,
+//    "additional_discount": "0.00",
+//    "additional_discount_type": null,
+//    "additional_discount_amount": "0.00",
+//    "special_discount": 0,
+//    "additional_cb": "0.00",
+//    "additional_cb_type": null,
+//    "additional_cb_amount": "0.00",
+//    "special_discount_type": null,
+//    "special_discount_amount": "0.00",
+//    "special_comment": "",
+//    "is_donation": 0,
+//    "pref_pickup_time_charge": "0.00",
+//    "pref_delivery_time_charge": "0.00",
+//    "has_pref_pickup_time": 0,
+//    "has_pref_delivery_time": 0,
+//    "needs_verification": 2,
+//    "verified_by": 34,
+//    "verified_on": "2023-08-04 17:39:02",
+//    "verified_by_responsible_person": 34,
+//    "is_lf": 0,
+//    "is_quickly_pickedup": 0,
+//    "created_on": "2023-08-04 17:35:55",
+//    "last_modified_on": "2023-08-04 18:32:42",
+//    "additional_cb_redeemed": null,
+//    "additional_cb_redeemed_on": null,
+//    "additional_cb_redeemed_for": null,
+//    "order_taxable_amount": "0.00",
+//    "related_center_id": 1,
+//    "is_returned_order": 0,
+//    "return_order_id": null,
+//    "total_returned_count": 0,
+//    "delivery_pack_id": null,
+//    "delivery_pack_price": "0.00",
+//    "delivery_pack_extra_included": 0,
+//    "is_regular": 1,
+//    "is_senior_citizens": 0,
+//    "is_covid_patients": 0,
+//    "covid_patient_amount": "0.00",
+//    "is_covid_centers": 0,
+//    "cancellation_charges": "0.00",
+//    "cancellation_charges_pay": 0,
+//    "reschedule_charges": "0.00",
+//    "hold_amount": 0,
+//    "pay_on_pickup": 0,
+//    "delivery_charges": "0.00",
+//    "order_stages": [
+//        {
+//            "stage_order": 1,
+//            "orderstage_id": 202751,
+//            "stage_title": "Pickup",
+//            "stage_status": "Pending",
+//            "assigned_to_id": 263,
+//            "assigned_to": "wastik ansari (8327724967)",
+//            "staged_by": "",
+//            "stage_comments": null,
+//            "staged_on": "2023-08-04 17:35:55",
+//            "staged_laston": "2023-08-04 18:32:42",
+//            "customer_feedback_rating": 0,
+//            "customer_feedback_comment": "",
+//            "customer_feedback_received_on": null,
+//            "stage_by_sep_name": "",
+//            "stage_by_sep_phone": ""
+//        },
+//        {
+//            "stage_order": 2,
+//            "stage_title": "Processing",
+//            "stage_status": "",
+//            "assigned_to_id": "",
+//            "assigned_to": "",
+//            "staged_by": "",
+//            "stage_comment": "",
+//            "staged_on": "",
+//            "staged_laston": "",
+//            "orderstage_id": 0,
+//            "customer_feedback_rating": "",
+//            "customer_feedback_comment": "",
+//            "customer_feedback_received_on": "",
+//            "stage_by_sep_name": "",
+//            "stage_by_sep_phone": ""
+//        },
+//        {
+//            "stage_order": 3,
+//            "stage_title": "Delivery",
+//            "stage_status": "",
+//            "assigned_to_id": "",
+//            "assigned_to": "",
+//            "staged_by": "",
+//            "stage_comment": "",
+//            "staged_on": "",
+//            "staged_laston": "",
+//            "orderstage_id": 0,
+//            "customer_feedback_rating": "",
+//            "customer_feedback_comment": "",
+//            "customer_feedback_received_on": "",
+//            "stage_by_sep_name": "",
+//            "stage_by_sep_phone": ""
+//        }
+//    ],
+//    "isPickedUp": false,
+//    "isProcessed": false,
+//    "isDelivered": false,
+//    "service": {
+//        "name": "Wash + Ironing",
+//        "banner": "1615037226_service_banner.jpg"
+//    },
+//    "orderType": {
+//        "type_name": "Daily Service",
+//        "allow_user_to_choose_garments": 0,
+//        "min_ord_val": "150.00",
+//        "is_instant": 1
+//    },
+//    "orderBookedBy": {
+//        "mobile": "7359311728",
+//        "name": "test2 test2",
+//        "id": 13976,
+//        "push_id": "eUygd-_bRkuvfr0WrRNpHi:APA91bEFgc1Z2P7YBosow_zDvmCihhMTDyc7CdVyKOD7kZ6rG5RU9-YQlogoolxwGdVPn-iWQzAWwPh58auZJEwTBs3k1xoZBy71o_-oXaNRfVJRoeeqoW63-DEJZoBeUg2Dwb9UMyMf"
+//    },
+//    "pickupPincodes": {
+//        "area_name": "Harni",
+//        "pincode": "390022"
+//    },
+//    "pickupCities": {
+//        "city_name": "Vadodara"
+//    },
+//    "pickupStates": {
+//        "state_name": "Gujarat"
+//    },
+//    "timeSlot": {
+//        "starts_on": 1691145000,
+//        "ends_on": 1691155800
+//    },
+//    "formatted_pickup_address": "B 73 INDRA, Harni warasiya,ambe maa Mandir ,Harni,Vadodara-390022,Gujarat",
+//    "deliveryPincodes": {
+//        "area_name": "Harni",
+//        "pincode": "390022"
+//    },
+//    "deliveryCities": {
+//        "city_name": "Vadodara"
+//    },
+//    "deliveryStates": {
+//        "state_name": "Gujarat"
+//    },
+//    "deliveryTimeSlot": {
+//        "starts_on": 1691123400,
+//        "ends_on": 1691134200
+//    },
+//    "formatted_delivery_address": "B 73 INDRA, Harni warasiya,ambe maa Mandir ,Harni,Vadodara-390022,Gujarat",
+//    "taxes": [],
+//    "offer": null,
+//    "orderWiseStages": [
+//        {
+//            "orderstage_id": 202751,
+//            "order_id": 72903,
+//            "stage_id": 35,
+//            "stage_status": 10,
+//            "stage_comments": null,
+//            "staged_by": null,
+//            "barcode": null,
+//            "next_stage_id": null,
+//            "last_modified_on": "2023-08-04 18:32:42",
+//            "created_on": "2023-08-04 17:35:55",
+//            "title": "Pickup",
+//            "display_order": 1
+//        }
+//    ],
+//    "PickupPersonInfo": {
+//        "person_id": 0,
+//        "person": "",
+//        "number": "",
+//        "away": "",
+//        "lat": "",
+//        "lon": ""
+//    },
+//    "orderItems": []
+// }
+
+
+{
+   "bagInfo": [
+     {
+       "bagno": "xgydyf"
+     }
+   ],
+   "staff_token": "4pyi9VQrHxJpvvBfsptUHDFhOTFhZDNlNWViZDU2MjU0YzA5M2JhNDg5N2NkNTBjMDg4MTdhM2JmNTU5NGYxNmUzYWUwYTg3ZmI4OTBlYmKu0Rq3NjwOy5aAPnesbvL/E+pBBN7usOQjmzQJgKrQa7082G9rJrwNl22LTCrCUy6+QHT4t1ChkUDtVDq9P4II",
+   "total_picked_items": "6",
+   "total_items": "6",
+   "stage_comments": "",
+   "order_id": 72780,
+   "orderstage_id": 202365,
+   "mode_of_payment": "",
+   "FinalAddedMoney": 0.0,
+   "referral": {
+     "total_balance": 0.0,
+     "total_balance_text": "&#8377;0  <small class=\"txtview_14\"> (Total 0 points earned)</small>",
+     "used": 0
+   },
+   "Orders": {
+     "additional_charges": "25.00",
+     "additional_discount": "0.00",
+     "additional_discount_amount": "0.00",
+     "cancelled": 0,
+     "cancelled_by": "",
+     "cancelled_by_id": 0,
+     "comments": "\n                                                ",
+     "created_on": "2023-07-29 15:48:57",
+     "customer_id": 13793,
+     "delivery_assigned_to": 0,
+     "delivery_attempts": 0,
+     "deliveryCities": {
+       "city_name": "Vadodara"
+     },
+     "delivery_city_id": 7,
+     "delivery_date": "2023-08-01",
+     "delivery_flat_no": "314",
+     "delivery_landmark": "Fatehgunj",
+     "delivery_pincode_id": 41,
+     "deliveryPincodes": {
+       "area_name": "Chhani road",
+       "pincode": "390002"
+     },
+     "delivery_slot_id": 75,
+     "delivery_state_id": 9,
+     "deliveryStates": {
+       "state_name": "Gujarat"
+     },
+     "delivery_street": "Saffron complex",
+     "deliveryTimeSlot": {
+       "ends_on": 1691155800,
+       "starts_on": 1691145000
+     },
+     "deliveryaddress_id": 12359,
+     "extra_paid_amount": 0,
+     "extra_paid_by": 0,
+     "extra_paid_on": "0000-00-00 00:00:00",
+     "extra_pay": 0.0,
+     "formatted_delivery_address": "314, Saffron complex,Fatehgunj,Chhani road,Vadodara-390002,Gujarat",
+     "formatted_pickup_address": "314, Saffron complex,Fatehgunj,Chhani road,Vadodara-390002,Gujarat",
+     "has_pref_delivery_time": 0,
+     "has_pref_pickup_time": 0,
+     "initial_assigned_to": 263,
+     "is_auto_routed": 0,
+     "is_bill_generated": 0,
+     "is_collected_in_person": 0,
+     "isDelivered": false,
+     "is_donation": 0,
+     "is_feedback_rcvd": 0,
+     "is_generated_by_scheduler": 0,
+     "is_invoice_generated": 0,
+     "is_lf": 0,
+     "is_marked_as_auto_feedback": 0,
+     "is_paid_to_vendor": 0,
+     "is_payable_calculated": 0,
+     "isPickedUp": false,
+     "isProcessed": false,
+     "is_proforma_invoice_generated": 0,
+     "is_quickly_pickedup": 0,
+     "is_refunded": 0,
+     "is_repeated": 0,
+     "is_delivered": 0,
+     "is_pickedup": 0,
+     "is_processed": 0,
+     "is_subscribed": 0,
+     "last_modified_on": "2023-08-04 00:57:59",
+     "monthly_subscription": 0,
+     "needs_verification": 2,
+     "order_amount": "0.00",
+     "orderBookedBy": {
+       "id": 13864,
+       "name": "Test Tewt",
+       "push_id": "eTR-Cii-SpyQ5xylyfAEv9:APA91bHMbXfP2eouWVcH-tOPsYtbusJkrhZjoW8wYlhvvf2e0E0j96uuV5fFfaVQi6RLonz2TgkBNByRWAAujO5e40ugVdMoujO-kfLytv4ExoDCjMcsrP9u3I-jRpXve8NfgLLJhduH"
+     },
+     "order_display_id": "ORD974172780",
+     "order_id": 72780,
+     "orderItems": [
+       
+     ],
+     "order_outstanding_amount": "0.00",
+     "order_stages": [
+       {
+         "assigned_to": "wastik ansari (8327724967)",
+         "assigned_to_id": "263",
+         "customer_feedback_comment": "",
+         "customer_feedback_rating": "0",
+         "orderstage_id": 202365,
+         "stage_by_sep_name": "",
+         "stage_by_sep_phone": "",
+         "stage_comments": "",
+         "stage_order": 1,
+         "stage_status": "Pending",
+         "stage_title": "Pickup",
+         "staged_by": "",
+         "staged_laston": "2023-08-04 00:57:59",
+         "staged_on": "2023-07-29 15:48:57"
+       },
+       {
+         "assigned_to": "",
+         "assigned_to_id": "",
+         "customer_feedback_comment": "",
+         "customer_feedback_rating": "",
+         "customer_feedback_received_on": "",
+         "orderstage_id": 0,
+         "stage_by_sep_name": "",
+         "stage_by_sep_phone": "",
+         "stage_comment": "",
+         "stage_order": 2,
+         "stage_status": "",
+         "stage_title": "Processing",
+         "staged_by": "",
+         "staged_laston": "",
+         "staged_on": ""
+       },
+       {
+         "assigned_to": "",
+         "assigned_to_id": "",
+         "customer_feedback_comment": "",
+         "customer_feedback_rating": "",
+         "customer_feedback_received_on": "",
+         "orderstage_id": 0,
+         "stage_by_sep_name": "",
+         "stage_by_sep_phone": "",
+         "stage_comment": "",
+         "stage_order": 3,
+         "stage_status": "",
+         "stage_title": "Delivery",
+         "staged_by": "",
+         "staged_laston": "",
+         "staged_on": ""
+       }
+     ],
+     "order_sub_total": "0.00",
+     "order_taxes": "0.00",
+     "order_total": "25",
+     "orderType": {
+       "allow_user_to_choose_garments": 0,
+       "is_instant": 0,
+       "min_ord_val": "30.00",
+       "type_name": "Regular Service"
+     },
+     "orderWiseStages": [
+       {
+         "created_on": "2023-07-29 15:48:57",
+         "display_order": 1,
+         "last_modified_on": "2023-08-04 00:57:59",
+         "order_id": 72780,
+         "orderstage_id": 202365,
+         "stage_comments": "",
+         "stage_id": 38,
+         "stage_status": 10,
+         "ti D/OkHttp: tle": "Pickup"
+       }
+     ],
+     "order_booked_by": 13864,
+     "ordertype_id": 15,
+     "origin_source": "APP",
+     "parent_order_id": 0,
+     "payLater": 1,
+     "pickup_attempts": 0,
+     "pickupCities": {
+       "city_name": "Vadodara"
+     },
+     "pickup_city_id": 7,
+     "pickup_date": "2023-07-29",
+     "pickup_flat_no": "314",
+     "pickup_landmark": "Fatehgunj",
+     "PickupPersonInfo": {
+       "away": "",
+       "lat": "",
+       "lon": "",
+       "number": "",
+       "person": "",
+       "person_id": "0"
+     },
+     "pickup_pincode_id": 41,
+     "pickupPincodes": {
+       "area_name": "Chhani road",
+       "pincode": "390002"
+     },
+     "pickup_slot_id": 75,
+     "pickup_state_id": 9,
+     "pickupStates": {
+       "state_name": "Gujarat"
+     },
+     "pickup_street": "Saffron complex",
+     "pickupaddress_id": 12359,
+     "pref_pickup_time_charge": "0.00",
+     "rate_multiplier": "1.00",
+     "ref_discount": "0.00",
+     "refunded_amount": "0.00",
+     "same_as": "1",
+     "service": {
+       "banner": "1615037226_service_banner.jpg",
+       "name": "Wash + Ironing"
+     },
+     "service_id": 13,
+     "special_comment": "",
+     "special_discount": 0,
+     "special_discount_amount": "0.00",
+     "stage_comments": "",
+     "status": "Unpaid",
+     "taxes": [
+       
+     ],
+     "timeSlot": {
+       "ends_on": 1691155800,
+       "starts_on": 1691145000
+     },
+     "total_dlvrd_items": 0,
+     "total_items": 6,
+     "total_rcvd_items": 6
+   },
+   "OrderItems": [
+     {
+       "gtype_id": 128,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 129,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 130,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 131,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "80.00"
+     },
+     {
+       "gtype_id": 132,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "120.00"
+     },
+     {
+       "gtype_id": 133,
+       "price_id": 0,
+       "rcvd_qty": 1,
+       "base_price": "60.00"
+     },
+     {
+       "gtype_id": 134,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 135,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 283,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 285,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "30.00"
+     },
+     {
+       "gtype_id": 327,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 331,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "22.00"
+     },
+     {
+       "gtype_id": 362,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "25.00"
+     },
+     {
+       "gtype_id": 406,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "28.00"
+     },
+     {
+       "gtype_id": 136,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 137,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 138,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 139,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 140,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 141,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 142,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 340,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 341,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 342,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 347,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 348,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 349,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "20.00"
+     },
+     {
+       "gtype_id": 350,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 352,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "35.00"
+     },
+     {
+       "gtype_id": 369,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "40.00"
+     },
+     {
+       "gtype_id": 143,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "30.00"
+     },
+     {
+       "gtype_id": 144,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "50.00"
+     },
+     {
+       "gtype_id": 169,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 181,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "25.00"
+     },
+     {
+       "gtype_id": 227,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "300.00"
+     },
+     {
+       "gtype_id": 293,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "12.00"
+     },
+     {
+       "gtype_id": 294,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "10.00"
+     },
+     {
+       "gtype_id": 299,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "25.00"
+     },
+     {
+       "gtype_id": 317,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "30.00"
+     },
+     {
+       "gtype_id": 329,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "25.00"
+     },
+     {
+       "gtype_id": 353,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "18.00"
+     },
+     {
+       "gtype_id": 354,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "30.00"
+     },
+     {
+       "gtype_id": 357,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "8.00"
+     },
+     {
+       "gtype_id": 365,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "45.00"
+     },
+     {
+       "gtype_id": 366D/OkHttp: ,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "70.00"
+     },
+     {
+       "gtype_id": 399,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "35.00"
+     },
+     {
+       "gtype_id": 400,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "60.00"
+     },
+     {
+       "gtype_id": 401,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "90.00"
+     },
+     {
+       "gtype_id": 303,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 304,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 305,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "30.00"
+     },
+     {
+       "gtype_id": 318,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 319,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 320,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 321,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 322,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 323,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 324,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     },
+     {
+       "gtype_id": 325,
+       "price_id": 0,
+       "rcvd_qty": null,
+       "base_price": "15.00"
+     }
+   ]
+ }
